@@ -1,0 +1,10 @@
+# Environment configuration file
+
+# Server port
+PORT=3000
+
+# MongoDB connection URI
+MONGO_URI=mongodb://localhost:27017/mydatabase
+
+# JWT secret key
+JWT_SECRET=mysecretkey
